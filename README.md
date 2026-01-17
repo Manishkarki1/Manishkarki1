@@ -14,14 +14,14 @@ src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gi
 
 ### 👨‍💻 About Me
 
-- 💼 Full-Stack Developer with experience as a Technical Lead
-- 📱 Strong focus on **Flutter (Mobile Apps)**
-- 🌐 Web development with **React, Next.js & Laravel(blade,inertia)**
-- ⚙️ Backend experience in **Node.js, PHP (Laravel)**
-- 🌱 Always learning & improving system design
-- 👨‍🏫 Actively involved in **teaching, mentoring & technical training**
-- 🤖 Interested in exploring AI and its real-world applications
-- 📍 Based in **Nepal**
+💼 Full-Stack Developer with experience as a Technical Lead
+📱 Strong focus on **Flutter (Mobile Apps)**
+🌐 Web development with **React, Next.js & Laravel(blade,inertia)**
+⚙️ Backend experience in **Node.js, PHP (Laravel)**
+🌱 Always learning & improving system design
+👨‍🏫 Actively involved in **teaching, mentoring & technical training**
+🤖 Interested in exploring AI and its real-world applications
+📍 Based in **Nepal**
 
 ---
 
