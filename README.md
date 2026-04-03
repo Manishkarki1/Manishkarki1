@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Karki</h1>
 <h3 align="center">
-Full-Stack Developer with experience as a Technical Lead • Mentor & Educator
+Full-Stack Developer with experience as a Technical Lead • Learner
 </h3>
 
 <p align="center">
